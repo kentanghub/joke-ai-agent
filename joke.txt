@@ -1,0 +1,1 @@
+My agent flagged my manual fix as "likely AI-generated" and reverted it.
